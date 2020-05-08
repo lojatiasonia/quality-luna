@@ -1874,6 +1874,12 @@
     </url>
   
     <url>
+      <loc>https://quality-luna.netlify.app/pages/analise-capilar</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://quality-luna.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
