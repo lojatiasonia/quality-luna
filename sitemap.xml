@@ -1862,6 +1862,12 @@
     </url>
   
     <url>
+      <loc>https://quality-luna.netlify.app/pages/cadastro-para-cabeleireiros-profissionais</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://quality-luna.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
