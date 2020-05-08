@@ -1946,12 +1946,6 @@
     </url>
   
     <url>
-      <loc>https://quality-luna.netlify.app/posts/esta-loja-e-um-pwa</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://quality-luna.netlify.app/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
