@@ -1,5 +1,19 @@
 [[redirects]]
-  from = "/grid/ofertas"
-  to = "/produtos-para-cabelo-luna"
+  from = "/grid/*"
+  to = "/index"
   status = 301
-  force = true
+  
+[[redirects]]
+  from = "/content/*"
+  to = "/index"
+  status = 301
+  
+[[redirects]]
+  from = "/marca/100*"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/contate-nos"
+  to = "/index"
+  status = 301
