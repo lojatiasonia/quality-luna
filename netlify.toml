@@ -1,4 +1,24 @@
 [[redirects]]
+  from = "/kit-luna-system-cristalli"
+  to = "/index"
+  status = 301
+  
+[[redirects]]
+  from = "/luna-plex-amino-150ml"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/kit-luna-elixir-shampoo-mascara-leave-in"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/reconstrutor-da-luna-system-500g"
+  to = "/index"
+  status = 301
+  
+[[redirects]]
   from = "/grid/*"
   to = "/index"
   status = 301
