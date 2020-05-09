@@ -17,7 +17,17 @@
   from = "/reconstrutor-da-luna-system-500g"
   to = "/index"
   status = 301
-  
+
+[[redirects]]
+  from = "/kit-luna-relax-shampoo-e-hidroxico-de-sodio"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/kit-luna-elixir-shampoo-mascara-leave-in"
+  to = "/index"
+  status = 301
+
 [[redirects]]
   from = "/grid/*"
   to = "/index"
