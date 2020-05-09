@@ -9,11 +9,16 @@
   status = 301
   
 [[redirects]]
-  from = "/marca/100*"
+  from = "/marca/*"
   to = "/index"
   status = 301
 
 [[redirects]]
   from = "/contate-nos"
+  to = "/index"
+  status = 301
+  
+  [[redirects]]
+  from = "/pagina/*"
   to = "/index"
   status = 301
