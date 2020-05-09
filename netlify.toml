@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/grid/ofertas"
+  to = "/produtos-para-cabelo-luna"
+  status = 301
+  force = true
