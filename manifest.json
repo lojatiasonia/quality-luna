@@ -27,7 +27,7 @@
     }
   ],
   "name": "Quality luna",
-  "short_name": "qualityluna",
+  "short_name": "QualityLuna",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
