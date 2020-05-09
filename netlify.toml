@@ -1,54 +1,54 @@
 [[redirects]]
   from = "/kit-luna-system-cristalli"
-  to = "/index"
+  to = "/search"
   status = 301
   
 [[redirects]]
   from = "/luna-plex-amino-150ml"
-  to = "/index"
+  to = "/search"
   status = 301
 
 [[redirects]]
   from = "/kit-luna-elixir-shampoo-mascara-leave-in"
-  to = "/index"
+  to = "/search"
   status = 301
 
 [[redirects]]
   from = "/reconstrutor-da-luna-system-500g"
-  to = "/index"
+  to = "/search"
   status = 301
 
 [[redirects]]
   from = "/kit-luna-relax-shampoo-e-hidroxico-de-sodio"
-  to = "/index"
+  to = "/search"
   status = 301
 
 [[redirects]]
   from = "/kit-luna-elixir-shampoo-mascara-leave-in"
-  to = "/index"
+  to = "/search"
   status = 301
 
 [[redirects]]
   from = "/grid/*"
-  to = "/index"
+  to = "/search"
   status = 301
   
 [[redirects]]
   from = "/content/*"
-  to = "/index"
+  to = "/search"
   status = 301
   
 [[redirects]]
   from = "/marca/*"
-  to = "/index"
+  to = "/search"
   status = 301
 
 [[redirects]]
   from = "/contate-nos"
-  to = "/index"
+  to = "/search"
   status = 301
   
   [[redirects]]
   from = "/pagina/*"
-  to = "/index"
+  to = "/search"
   status = 301
