@@ -26,9 +26,7 @@
 }
 
 // hide trustvox star
-.products-carousel .ts-shelf-container {
-  display: none !important;
-}
+.ec-product-card__name +div {margin-left: 25%; display: none !important;}
 
 //remover status pedido aberto
 .order-info__status--open {
